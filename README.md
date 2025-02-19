@@ -64,7 +64,7 @@ dotnet run
 
 The API should now be running at:
 
-- **http://localhost:5009 (uptade)**
+- **http://localhost:5009**
 
 If the API is running on a different port, make sure to update the **`VITE_API_URL`** variable in the **`.env`** file inside the frontend directory.
 
