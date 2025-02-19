@@ -92,9 +92,7 @@ The app will be available at **http://localhost:5173**.
 
 ---
 
----
-
-## 🔥 Testing Everything
+### 🔥 Testing Everything
 
 Once everything is up and running:
 
